@@ -1,0 +1,17 @@
+{
+  "name": "with-auth0",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^1.6.4",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "v8": "^0.1.0"
+  }
+}
