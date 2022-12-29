@@ -1,12 +1,4 @@
-## $5 Tech Unlocked 2021!
-
-## [Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
-
-_The $5 campaign runs from **December 15th 2020** to **January 13th 2021.**_
-
-# Real-World Next.js
-
-Real-World Next.js, published by Packt
+# 실전에서 바로 쓰는 Next.js
 
 <a href="https://www.packtpub.com/product/real-world-next-js/9781801073493"><img src="https://static.packt-cdn.com/products/9781801073493/cover/smaller" alt="978-1-80107-349-3	" height="256px" align="right"></a>
 
@@ -69,8 +61,3 @@ With the following software and hardware list you can run all code files present
 ***Michele Riva*** is a passionate and experienced software architect and Google Developer Expert from Milan, Italy. Over the years, he has contributed to many open source projects from big companies and foundations in many different programming languages and paradigms, including Haskell, Elixir, Go, and TypeScript. He has also written dozens of public domain articles on a broad range of topics and given many talks at international conferences and meetups.
 While writing this book, he worked as a senior software engineer in the architecture team of ViacomCBS, building a multi-tenant Node.js application at the heart of their streaming websites and networks.
 Currently, he's employed as a senior software architect at NearForm.
-
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801073493">https://packt.link/free-ebook/9781801073493 </a> </p>
