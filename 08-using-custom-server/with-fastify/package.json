@@ -1,0 +1,17 @@
+{
+  "name": "with-fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^3.29.4",
+    "fastify-nextjs": "^7.0.0",
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
