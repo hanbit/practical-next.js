@@ -1,0 +1,25 @@
+{
+  "name": "signbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.3.11",
+    "apollo-server-micro": "^3.11.1",
+    "graphql": "^15.8.0",
+    "graphql-type-json": "^0.3.2",
+    "isomorphic-unfetch": "^3.1.0",
+    "micro": "^9.4.1",
+    "next": "^13.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
