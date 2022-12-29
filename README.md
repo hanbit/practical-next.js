@@ -22,7 +22,7 @@ CHAPTER 1. Next.js 알아보기
 CHAPTER 2. 렌더링 전략  
 CHAPTER 3. Next.js 기초와 내장 컴포넌트  
 
-**PART 2. Next.js 실전 감각 익히기**
+**PART 2. Next.js 실전 감각 익히기**  
 CHAPTER 4. 코드 구성과 데이터 불러오기  
 CHAPTER 5. 지역 및 전역 상태 관리  
 CHAPTER 6. CSS와 내장 스타일링 메서드  
