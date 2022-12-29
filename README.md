@@ -4,6 +4,8 @@
 
 [실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493) (한빛미디어, 2023) 예제 코드 저장소입니다.
 
+원서의 저자가 제공하는 코드는 [여기](https://github.com/PacktPublishing/Real-World-Next.js)에서 확인할 수 있습니다.
+
 ## 이 책에 대하여
 
 Next.js는 확장성과 성능이 뛰어난 리액트 프레임워크로, 하이브리드 렌더링, 라우트 프리페칭, 자동 이미지 최적화, 국제화 등 여러 가지 기능을 제공합니다.
