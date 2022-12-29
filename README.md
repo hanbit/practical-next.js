@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/real-world-next-js/9781801073493"><img src="https://static.packt-cdn.com/products/9781801073493/cover/smaller" alt="978-1-80107-349-3	" height="256px" align="right"></a>
 
-[실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493) (한빛미디어, 2023) 예제 코드 저장소입니다.
+『[실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)』(한빛미디어, 2023) 예제 코드 저장소입니다.
 
 원서의 저자가 제공하는 코드는 [여기](https://github.com/PacktPublishing/Real-World-Next.js)에서 확인할 수 있습니다.  
 
