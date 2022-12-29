@@ -2,7 +2,8 @@
 
 <a href="https://www.packtpub.com/product/real-world-next-js/9781801073493"><img src="https://static.packt-cdn.com/products/9781801073493/cover/smaller" alt="978-1-80107-349-3	" height="256px" align="right"></a>
 
-[실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493) (한빛미디어, 2023) 예제 코드 저장소입니다.  
+[실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493) (한빛미디어, 2023) 예제 코드 저장소입니다.
+
 원서의 저자가 제공하는 코드는 [여기](https://github.com/PacktPublishing/Real-World-Next.js)에서 확인할 수 있습니다.
 
 ## 이 책에 대하여
@@ -17,3 +18,19 @@ Next.js는 다양한 용도로 사용됩니다. 온라인 상거래 플랫폼이
 **PART 1. Next.js의 세계로**  
 CHAPTER 1. Next.js 알아보기  
 CHAPTER 2. 렌더링 전략  
+CHAPTER 3. Next.js 기초와 내장 컴포넌트  
+
+**PART 2. Next.js 실전 감각 익히기**
+CHAPTER 4. 코드 구성과 데이터 불러오기  
+CHAPTER 5. 지역 및 전역 상태 관리  
+CHAPTER 6. CSS와 내장 스타일링 메서드  
+CHAPTER 7. UI 프레임워크  
+CHAPTER 8. 커스텀 서버  
+CHAPTER 9. 테스트  
+CHAPTER 10. SEO와 성능 관리  
+CHAPTER 11. 배포 플랫폼  
+
+**PART 3. Next.js로 상용 애플리케이션 만들기**  
+CHAPTER 12. 인증과 사용자 세션 관리  
+CHAPTER 13. GraphCMS로 온라인 상거래 웹 사이트 만들기  
+CHAPTER 14. 예제 프로젝트로 살펴보는 Next.js의 다음 단계  
