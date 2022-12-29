@@ -15,6 +15,6 @@ Next.js는 다양한 용도로 사용됩니다. 온라인 상거래 플랫폼이
 이 책을 다 읽고 나면 Headless CMS나 그 외의 데이터 소스와 Next.js를 연결해서 애플리케이션을 설계하고, 만들고, 배포할 수 있습니다.
 
 ## 목차
-**PART 1. Next.js의 세계로**
-CHAPTER 1. Next.js 알아보기
-CHAPTER 2. 렌더링 전략
+**PART 1. Next.js의 세계로**  
+CHAPTER 1. Next.js 알아보기  
+CHAPTER 2. 렌더링 전략  
