@@ -1,8 +1,8 @@
 # 실전에서 바로 쓰는 Next.js
 
-<a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075"><img src="https://www.hanbit.co.kr/data/books/B1068448075_l.jpg" alt="979-1-16921-017-3	" height="256px" align="right"></a>
+<a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075"><img src="https://www.hanbit.co.kr/data/books/B1068448075_l.jpg" height="256px" align="right"></a>
 
-『[실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)』(한빛미디어, 2023) 예제 코드 저장소입니다.
+『[실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)』(한빛미디어, 2023) 예제 코드 저장소입니다.
 
 이 저장소의 코드는 원서의 저자가 제공하는 코드에서 다음 내용을 수정한 것입니다.
  - node.js 버전을 12에서 18로 변경하였습니다. CHAPTER 11에서 사용하는 Dockerfile의 베이스 이미지 역시 node 18 버전을 사용하도록 변경하였습니다.
