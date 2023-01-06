@@ -1,6 +1,6 @@
 # 실전에서 바로 쓰는 Next.js
 
-<a href="https://www.packtpub.com/product/real-world-next-js/9781801073493"><img src="https://static.packt-cdn.com/products/9781801073493/cover/smaller" alt="978-1-80107-349-3	" height="256px" align="right"></a>
+<a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075"><img src="https://www.hanbit.co.kr/data/books/B1068448075_l.jpg" alt="979-1-16921-017-3	" height="256px" align="right"></a>
 
 『[실전에서 바로 쓰는 Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493)』(한빛미디어, 2023) 예제 코드 저장소입니다.
 
