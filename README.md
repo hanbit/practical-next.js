@@ -3,14 +3,16 @@
 <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075"><img src="https://www.hanbit.co.kr/data/books/B1068448075_l.jpg" height="256px" align="right"></a>
 
 『[실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)』(한빛미디어, 2023) 예제 코드 저장소입니다.
+원서의 저자가 제공하는 코드는 [여기](https://github.com/PacktPublishing/Real-World-Next.js)에서 확인할 수 있습니다.  
 
-이 저장소의 코드는 원서의 저자가 제공하는 코드에서 다음 내용을 수정한 것입니다.
+<details>
+<summary>이 저장소의 코드는 원서의 저자가 제공하는 코드에서 다음 내용을 수정한 것입니다.</summary>
+
  - node.js 버전을 12에서 18로 변경하였습니다. CHAPTER 11에서 사용하는 Dockerfile의 베이스 이미지 역시 node 18 버전을 사용하도록 변경하였습니다.
  - 일부 의존성 패키지의 호환성, 보안 문제 해결을 위해 next.js 패키지 버전을 13.1.1, react와 react-dom 패키지 버전을 18.2.0으로 업그레이드 하였습니다. Next.js 버전을 변경하여도 책의 코드와 차이나는 부분은 없으니 책의 예시 코드를 그대로 따라해도 무방합니다.
  - 계약 문제로 종료된 원격 API / GraphQL 서버를 대체하기 위해 CHAPTER 4의 API / GraphQL 서버 코드를 추가하였습니다.
  - 그 외 사용하는 패키지의 의존성 및 버그를 해결하기 위해 버전을 업그레이드 또는 사용해야 할 특정 버전을 지정하였습니다.
- 
-원서의 저자가 제공하는 코드는 [여기](https://github.com/PacktPublishing/Real-World-Next.js)에서 확인할 수 있습니다.  
+</details>
 
 
 ## 이 책에 대하여
