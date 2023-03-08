@@ -2,7 +2,9 @@
 
 
 1. 한빛미디어 코드를 클론합니다.  
-```$ git clone https://github.com/hanbit/practical-next.js.git```
+```
+$ git clone https://github.com/hanbit/practical-next.js.git
+```
 
 2. 4장에서 따라할 부분의 완성 코드 디렉토리로 이동합니다.(예: 서버 측에서 데이터 불러오기)  
 ```$ cd practical-next.js/04-nextjs-data-flow/consuming-rest-apis-on-the-server-side``` 
@@ -18,6 +20,7 @@ ready - started server on 0.0.0.0:3000, url: http://localhost:3000
 ``` 
 
 5. 새로운 Next.js 프로젝트를 시작합니다. 이 내용은 책에 있는 부분을 따라하시면 됩니다.  
+
 $ npx create-next-app ssr-rest-api  
 $ cd ssr-rest-api  
 $ yarn add axios  
