@@ -11,9 +11,11 @@
 ```$ npm install && npm run dev```  
 
 4. 해당 애플리케이션이 어떤 주소에서 실행되는지 확인합니다.  
-```(생략)  
+```
+...  
 ready - started server on 0.0.0.0:3000, url: http://localhost:3000  
-(생략)``` 
+...
+``` 
 
 5. 새로운 Next.js 프로젝트를 시작합니다. 이 내용은 책에 있는 부분을 따라하시면 됩니다.  
 $ npx create-next-app ssr-rest-api  
