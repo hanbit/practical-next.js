@@ -4,17 +4,20 @@
 1. 한빛미디어 저장소의 코드를 클론합니다.  
 ```
 $ git clone https://github.com/hanbit/practical-next.js.git
-```
+```  
+
 
 2. CHAPTER 4에서 따라할 부분의 완성 코드 디렉터리로 이동합니다(예: 서버 측에서 데이터 불러오기). 
 ```
 $ cd practical-next.js/04-nextjs-data-flow/consuming-rest-apis-on-the-server-side
-``` 
+```   
+
 
 3. 해당 디렉터리의 애플리케이션을 실행합니다.  
 ```
 $ npm install && npm run dev
-```  
+```   
+
 
 4. 해당 애플리케이션이 어떤 주소에서 실행되는지 확인합니다.  
 ```
