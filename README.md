@@ -21,13 +21,13 @@
 
 『실전에서 바로 쓰는 Next.js』와 원서는 책의 예제 코드를 따라가면서 전체 애플리케이션을 완성하는 구조로 이루어져 있습니다.  
 
-이에 따라 원서의 저자는 CHAPTER 4 코드 작성을 위한 외부 API endpoint를 별도로 제공하고 있었는데, 작년 6월부터 서비스가 중단되었고 그 이후 별도의 조치가 없는 상태입니다.
-그래서 부득이하게 CHAPTER 4의 코드를 따라하고 이해할 수 있도록 외부 API endpoint 코드를 임의로 흉내내어 제공하고 있습니다.  
+이에 따라 원서의 저자는 CHAPTER 4 코드 작성을 위한 외부 API 엔드포인트를 별도로 제공하고 있었는데, 작년 6월부터 서비스가 중단되었고 그 이후 별도의 조치가 없는 상태입니다.
+그래서 부득이하게 CHAPTER 4의 코드를 따라하고 이해할 수 있도록 외부 API 엔드포인트 코드를 임의로 흉내내어 제공하고 있습니다.  
 
 (https://github.com/hanbit/practical-next.js/tree/main/04-nextjs-data-flow/consuming-rest-apis-on-the-server-side/pages/api/04/users,
 https://github.com/hanbit/practical-next.js/tree/main/04-nextjs-data-flow/consuming-rest-apis-on-the-client-side/pages/api/04/users)  
 
-해당 코드는 원 저자가 만들어서 제공한 API endpoint 소스 코드를 제공받지 못한 상태로 임의로 구현한 것이며, CHAPTER 4에서 설명하는 내용과는 거리가 멀기 때문에 책에는 추가 설명을 덧붙이지 않았습니다.
+해당 코드는 원 저자가 만들어서 제공한 API 엔드포인트 소스 코드를 제공받지 못한 상태로 임의로 구현한 것이며, CHAPTER 4에서 설명하는 내용과는 거리가 멀기 때문에 책에는 추가 설명을 덧붙이지 않았습니다.
 GitHub 저장소 코드를 클론하지 않고 예제 코드를 처음부터 입력하며 실습하시는 독자분들을 미처 배려하지 못했습니다. 죄송합니다.  
 
 CHAPTER 4의 코드를 처음부터 따라하고 싶은 분들은 [다음 가이드라인](https://github.com/hanbit/practical-next.js/blob/main/04-nextjs-data-flow/README.md)을 참고해주세요(리눅스/맥 기준).  
